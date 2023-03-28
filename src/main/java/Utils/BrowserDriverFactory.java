@@ -1,2 +1,4 @@
-package Utils;public class BrowserDriverFactory {
+package Utils;
+
+public class BrowserDriverFactory {
 }

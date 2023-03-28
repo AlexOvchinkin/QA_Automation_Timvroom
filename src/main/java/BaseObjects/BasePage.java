@@ -1,4 +1,4 @@
-package PageModels.Base;
+package BaseObjects;
 
-public class BaseModel {
+public class BasePage {
 }

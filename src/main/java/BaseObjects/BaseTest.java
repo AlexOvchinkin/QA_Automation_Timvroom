@@ -1,2 +1,4 @@
-package BaseObjects;public class BaseTest {
+package BaseObjects;
+
+public class BaseTest {
 }
